@@ -6,6 +6,4 @@ let ayoub: number;
 let tetet: number;
 ayoub = 100;
 tetet = 120;
-console.log("ayoub");
-
-
+console.log ("ayoub");
